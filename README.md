@@ -18,3 +18,5 @@ computed.
 segments are doing well and what could be improved? Propose 2-3 specific recommendations (business
 initiatives and product changes) that could address these opportunities. Demonstrate rationale behind
 each recommendation AND prioritize your recommendations in order of their estimated impact.
+
+The solution is appread in a Jupyter network document along with a PDF presentation report.
