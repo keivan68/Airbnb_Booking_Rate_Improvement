@@ -22,5 +22,6 @@ each recommendation AND prioritize your recommendations in order of their estima
 The solution is appread in a Jupyter network document along with a PDF presentation report.
 
 Sources for some portions of the code:
+
 https://github.com/stasi009/TakeHomeDataChallenges
 https://github.com/JifuZhao/DS-Take-Home
